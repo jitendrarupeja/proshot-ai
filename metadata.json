@@ -1,0 +1,7 @@
+{
+  "name": "proshot-ai",
+  "description": "Transform casual selfies into high-end professional headshots using Gemini 2.5 Flash Image. Choose from multiple styles and refine your look with natural language edits.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
